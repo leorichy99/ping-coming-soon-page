@@ -23,8 +23,8 @@ The designs were created to the following widths:
 # Mobile-design
 ![Mobile-design](./design/mobile-design.jpg)
 
-# Mobile-error-states
-![Mobile-error-states](./design/mobile-error-states.jpg)
+# Mobile-error-state
+![Mobile-error-state](./design/mobile-error-state.jpg)
 
 ## Colors
 
